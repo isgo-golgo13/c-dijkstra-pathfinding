@@ -1,4 +1,4 @@
-# C (C23 Standard) Dijkstras Pathfinding Algorithm
+# C (using C23) Dijkstras Pathfinding Algorithm
 C (C23) Dijkstras Pathfinding Algorithm
 
 ## Dijkstras Algorithm
