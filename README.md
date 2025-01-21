@@ -59,6 +59,8 @@ Dijkstras algorithm is a highly-efficient and foundational pathfinding algorithm
 ```shell
 cmake -S . -B dist
 cmake --build dist
+
+# Run the application
 ./dist/dijkstra
 ```
 
