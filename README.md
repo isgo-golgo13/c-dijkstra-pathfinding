@@ -49,7 +49,7 @@ Dijkstras algorithm is a highly-efficient and foundational pathfinding algorithm
 ├── src/
 │   ├── dijkstra.c
 │   ├── graph.c
-│   └── main.c
+│   └── dijkstra-svc.c
 └── dist/
 ```
 
