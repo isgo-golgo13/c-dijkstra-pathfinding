@@ -36,3 +36,36 @@ Dijkstras algorithm is a highly-efficient and foundational pathfinding algorithm
 ## Extended Variants of Dijkstras Algorithm
 
 - HC Pathfinding
+
+
+## Directory Structure for the Code
+
+```shell
+.
+├── CMakeLists.txt
+├── include/
+│   ├── dijkstra.h
+│   └── graph.h
+├── src/
+│   ├── dijkstra.c
+│   ├── graph.c
+│   └── main.c
+└── dist/
+```
+
+
+## Compiling and Running the Application
+
+```shell
+cmake -S . -B dist
+```
+
+```shell
+cmake --build dist
+```
+
+```shell
+./dist/dijkstra
+```
+
+
