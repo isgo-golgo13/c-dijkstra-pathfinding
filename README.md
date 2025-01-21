@@ -38,7 +38,7 @@ Dijkstras algorithm is a highly-efficient and foundational pathfinding algorithm
 - HC Pathfinding
 
 
-## Directory Structure for the Code
+## Git Directory Structure for Dijkstras Algorithm Application
 
 ```shell
 .
