@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <stdio.h>
-#include <threads.h>
+#include <pthread.h>
+#include <limits.h>
 
 void dijkstra(const Graph *graph, size_t source, int *distances) {
     size_t n = graph->node_count;
